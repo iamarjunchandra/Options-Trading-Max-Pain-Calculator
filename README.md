@@ -1,1 +1,1 @@
-# Options-Trading-Max-Pain-Calculator
+If you are an options trader, this algorithm will help you calculate the maxpain region of the underlying asset. The variable buffer will take values that you want to act as a buffer region to protect ypour writing. For eg, buffer = .05 means the output will display athe 5% upper and lowerlimits from the actual maxpain so that you can write your option outside this region. 
